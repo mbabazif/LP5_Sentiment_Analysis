@@ -11,3 +11,11 @@ You need to have Python 3 on your system (a Python version lower than 3.10). The
 Linux & MacOs:
 
   python3 -m venv venv; source venv/bin/activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt
+
+Run the streamlit app (being at the repository root):
+
+Gradio:
+
+NoteBook
+
+  gradio app.py
