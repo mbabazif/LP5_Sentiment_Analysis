@@ -24,7 +24,7 @@ NoteBook
 
  | Project's Name | Published Article  | Deployed PowerBi |
 |:--------------:|:--------------:|:--------------:|
-| LP2(Customer Churn Analysis)  |[Project Article]() |    [Hagging Face App](https://huggingface.co/spaces/Mbabazi/Covid19_Sentimental_Analysis_App)|
+| LP2(Customer Churn Analysis)  |[Project Article](https://huggingface.co/spaces/Mbabazi/Covid19_Sentimental_Analysis_App) |    [Hagging Face App](https://huggingface.co/spaces/Mbabazi/Covid19_Sentimental_Analysis_App)|
 
 ## Author
 
